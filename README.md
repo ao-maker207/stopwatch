@@ -1,2 +1,0 @@
-# TEST
-HTML/CSS assignment
